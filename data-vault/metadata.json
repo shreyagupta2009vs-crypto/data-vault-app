@@ -1,0 +1,5 @@
+{
+  "name": "Data Vault",
+  "description": "A sophisticated data utility simulator that allows users to 'store' mobile data and 'use' it later at customizable simulated speeds (4G/5G). Features an AI-powered help center.",
+  "requestFramePermissions": []
+}
